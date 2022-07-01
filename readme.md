@@ -1,3 +1,7 @@
+# Fork Purpose
+This Fork is being used as a repository for my own modifications to the Z9V5.
+It still includes other stuff I probably have no plans on implementing. I may break this out into a seperate branch to include only my own modifications. 
+
 ## ZONESTAR 3D printer upgrade kits / parts 
 ### Automatic Repeat Printing Module (Only for Z9 series)
 By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
